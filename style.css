@@ -82,7 +82,7 @@ ul li a:hover{
     color: antiquewhite;
 }
 .Test-section{
-   min-height: 500px;
+   
    background-color: rgba(245, 245, 245, 0.438);
 
 }
@@ -98,7 +98,6 @@ ul li a:hover{
     border: none;
     border-radius: 25px;
     transition: 0.6s ease;
-    position: absolute;
 }
 #card1:hover{
     transform: scale(1.1);
